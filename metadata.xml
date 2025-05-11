@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated on 2025-05-11T16:03:44Z. -->
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
    <rdf:Description>
@@ -14,6 +15,8 @@ Several of the plates spread over two pages in this book. Those plates have been
 Scans are available from the Internet Archive (copy 1), as wel as scans of the first edition (copy 1, 2).
 Scans of the original English 1609 edition are also available on the Internet Archive. Further editions in the orginal Dutch and various translations can also be found there.
 </dc:rights>
+      <dc:subject>Northeast Passage</dc:subject>
+      <dc:subject>Barentsz, Willem, approximately 1550–1597</dc:subject>
       <dc:identifier>pg:64257</dc:identifier>
    </rdf:Description>
 </rdf:RDF>
